@@ -4,6 +4,7 @@ public class Test {
 
 	static {
 		System.out.println("hello hari");
+		System.out.println("form master");
 	}
 	
 }
